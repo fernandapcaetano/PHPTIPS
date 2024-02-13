@@ -1,6 +1,6 @@
 {
     "name": "fernandapcaetano/phptips001",
-    "description": "CONHECENDO O COMPOSER E CONFIGURANDO IDE",
+    "description": "CRUD DO JEITO CERTO: ABSTRAÇÃO DE BANCO DE DADOS COM DATA LAYER",
     "minimum-stability": "stable" ,
     "license": "MIT",
     "authors": [
@@ -23,6 +23,6 @@
         ]
     },
     "require": {
-        "phpmailer/phpmailer": "^6.9.1"
+        "coffeecode/datalayer": "2.0.*"
     }
 }
